@@ -1,0 +1,2 @@
+# SpringJdbcDaoSupport
+SpringJdbcDaoSupport test project.
